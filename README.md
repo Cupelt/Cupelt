@@ -32,12 +32,25 @@
     </br>
     <h2>Using IDE</h2>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    </br>
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-    <img src="https://img.shields.io/badge/Rider-010101?style=for-the-badge&logo=rider&logoColor=white">
-    <img src="https://img.shields.io/badge/DataGrip-010101?style=for-the-badge&logo=datagrip&logoColor=white">
-    <img src="https://img.shields.io/badge/intellij_idea-010101?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/Rider-F9584B?style=for-the-badge&logo=rider&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
     <h2>Using things</h2>
+    <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
+    <img src="https://img.shields.io/badge/google_chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+    <img src="https://img.shields.io/badge/aftereffect-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <h2>Other</h2>
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800">
   </div>
