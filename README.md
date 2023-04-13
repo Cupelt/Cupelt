@@ -1,5 +1,5 @@
 <header>
-  <div align="center">
+  <div align="left">
     <h1>- Information -</h1>
     I am living in Korea
     <img wdith=10px height=10px src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg">
@@ -7,7 +7,6 @@
     2005-08-21 | INFJ-T</br>
     Since 2017, I have been coding until now.</br>
     <code><i>"&lt;/work>"</i></code>
-    </br>
     </br>
     </br>
     </br>
@@ -19,6 +18,11 @@
     <code>but, without effort, one cannot stand shoulder to shoulder with talent</code>
   </div>
 </header>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 <body>
   <div align="left">
