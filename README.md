@@ -76,7 +76,7 @@
     <a href="https://solved.ac/profile/guswnd8800"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800"></a>
     <h1>Career</h1>
     <ul>
-      <li><a href="https://github.com/NexusAll/NexusAll">NesuxAll</a> - Owner</li>
+      <li><a href="https://github.com/NexusAll/NexusAll">NexusAll</a> - Owner</li>
       <li><a href="https://github.com/TriggerReactor/TriggerReactor">TriggerReactor</a> - Developer</li>
     </ul>
   </div>
