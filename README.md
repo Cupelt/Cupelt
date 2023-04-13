@@ -74,5 +74,10 @@
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <h2>Other</h2>
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800">
+    <h1>Career</h1>
+    <ul>
+      <li><a href="https://github.com/NexusAll/NexusAll">NesuxAll</a> - Owner</li>
+      <li><a href="https://github.com/TriggerReactor/TriggerReactor">TriggerReactor</a> - Developer</li>
+    </ul>
   </div>
 </body>
