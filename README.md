@@ -16,6 +16,14 @@
     </br>
     노력도 안하면 재능과 어깨를 나란히 할 수 없다.</br>
     <code>but, without effort, one cannot stand shoulder to shoulder with talent</code>
+    </br>
+    </br>
+    </br>
+    <details>
+      <summary>더 많은 내용</summary>
+      사실 그런거 없음</br>
+      <img width=500 height=500 src="https://shiftpsh-blog.s3.amazonaws.com/uploads/2022/04/listing216.png">
+    </details>
   </div>
 </header>
 </br>
