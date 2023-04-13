@@ -1,8 +1,25 @@
 <header>
   <div align="center">
-    asd
+    <h1>- Information -</h1>
+    I am living in Korea
+    <img wdith=10px height=10px src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg">
+    </br>
+    2005-08-21 | INFJ-T</br>
+    Since 2017, I have been coding until now.</br>
+    <code><i>"&lt;/work>"</i></code>
+    </br>
+    </br>
+    </br>
+    </br>
+    <h2>- Discription -</h2>
+    노력은 재능을 이기지 못하지만.</br>
+    <code>Effort cannot overcome talent</code></br>
+    </br>
+    노력도 안하면 재능과 어깨를 나란히 할 수 없다.</br>
+    <code>but, without effort, one cannot stand shoulder to shoulder with talent</code>
   </div>
 </header>
+</br>
 <body>
   <div align="left">
     <h2>Using languages</h2>
