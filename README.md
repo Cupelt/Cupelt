@@ -1,5 +1,5 @@
 <header>
-  <div align="left">
+  <div align="center">
     <h1>- Information -</h1>
     I am living in Korea
     <img wdith=10px height=10px src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kr.svg">
