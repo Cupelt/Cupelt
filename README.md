@@ -73,8 +73,8 @@
     <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <h2>Other</h2>
-    <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=koosaga">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koosaga">
+    <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=scka">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=scka">
     <h1>Career</h1>
     <ul>
       <li><a href="https://github.com/NexusAll/NexusAll">NexusAll</a> - Owner</li>
