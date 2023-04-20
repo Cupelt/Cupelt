@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <h2>Other</h2>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cupel">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cupelt">
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswnd8800">
     <h1>Career</h1>
