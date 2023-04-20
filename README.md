@@ -21,7 +21,7 @@
     </br>
     <details>
       <summary>더 많은 내용</summary>
-      사실 그런거 없음</br>
+      사실 그런거 없음:></br>
       <img width=500 height=500 src="https://shiftpsh-blog.s3.amazonaws.com/uploads/2022/04/listing216.png">
     </details>
   </div>
