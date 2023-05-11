@@ -11,11 +11,11 @@
     </br>
     </br>
     <h2>- Discription -</h2>
-    노력은 재능을 이기지 못하지만.</br>
-    <code>Effort cannot overcome talent</code></br>
+    거짓말은 나의 하나의 자신감이였다.</br>
+    <code>Lies were my only confidence.</code></br>
     </br>
-    노력도 안하면 재능과 어깨를 나란히 할 수 없다.</br>
-    <code>but, without effort, one cannot stand shoulder to shoulder with talent</code>
+    언젠가 거짓말이 진실이 될것이라 믿으며, 거짓말을 전파하고 다녔다.</br>
+    <code>I spread and lived with lies, believing that someday they would become the truth.</code>
     </br>
     </br>
     </br>
