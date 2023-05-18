@@ -11,11 +11,8 @@
     </br>
     </br>
     <h2>- Discription -</h2>
-    거짓말은 나의 하나의 자신감이였다.</br>
-    <code>Lies were my only confidence.</code></br>
-    </br>
-    언젠가 거짓말이 진실이 될것이라 믿으며, 거짓말을 전파하고 다녔다.</br>
-    <code>I spread and lived with lies, believing that someday they would become the truth.</code>
+    나는 뭘 해야하지?</br>
+    <code>What should i do?</code></br>
     </br>
     </br>
     </br>
