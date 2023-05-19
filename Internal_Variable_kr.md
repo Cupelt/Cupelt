@@ -8,8 +8,8 @@
     |:------|:------|:------:|
     |event|Event|Custom Trigger에 지정된 이벤트에 대한 정보를 가집니다.|
     |player|[Player](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/Player.html)?|Custom Trigger에 지정된 이벤트가 *'플레이어'* 대한 정보를 가지고 있다면, 플레이어를 반환합니다.</br></br>단, 제3자 플러그인의 커스텀 이벤트에서 따로 player(이벤트 실행자) 변수를 필요로 하는 경우가 있습니다.</br>이 경우에는 기존의 Player타입의 player내부변수가 그 플러그인이 원하는 타입의 변수로 덮어 씌워 집니다.|
-    |entity|Event|Custom Trigger에 지정된 이벤트가 *'엔티티'* 대한 정보를 가지고 있다면, 플레이어를 반환합니다.|
-    |block|Event|Custom Trigger에 지정된 이벤트가 *'블록'* 대한 정보를 가지고 있다면, 플레이어를 반환합니다.|
+    |entity|[Entity](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/Entity.html)?|Custom Trigger에 지정된 이벤트가 *'엔티티'* 대한 정보를 가지고 있다면, 플레이어를 반환합니다.|
+    |block|[Block](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Block.html)?|Custom Trigger에 지정된 이벤트가 *'블록'* 대한 정보를 가지고 있다면, 플레이어를 반환합니다.|
     
     '?' 는 정보가 없을때, [null](https://github.com/TriggerReactor/TriggerReactor/wiki/Variables_kr#null) 을 반환하는 변수라는 의미입니다.
 - [Inventory Trigger](https://github.com/TriggerReactor/TriggerReactor/wiki/Inventory-Trigger_kr#%EB%82%B4%EB%B6%80-%EB%B3%80%EC%88%98-%EB%AA%A9%EB%A1%9D)
