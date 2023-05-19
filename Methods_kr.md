@@ -13,13 +13,7 @@
 메소드를 완벽하게 활용하려면 Javadoc 을 읽고 이해 할 수 있어야합니다.</br>
 먼저 [CommandTrigger 내부 변수](https://github.com/TriggerReactor/TriggerReactor/wiki/Command-Trigger_kr#%EB%82%B4%EB%B6%80-%EB%B3%80%EC%88%98)의 [Player](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/Player.html)를 살펴 보겠습니다.
 
-# 내부 변수
-다음 트리거에는 내부 변수가 존재합니다.
-- [Click](https://github.com/TriggerReactor/TriggerReactor/wiki/Click-and-Walk-Triggers_kr#click-%ED%8A%B8%EB%A6%AC%EA%B1%B0)/[Walk](https://github.com/TriggerReactor/TriggerReactor/wiki/Click-and-Walk-Triggers_kr#walk-%ED%8A%B8%EB%A6%AC%EA%B1%B0) Trigger
-- [Command Trigger](https://github.com/TriggerReactor/TriggerReactor/wiki/Command-Trigger_kr#%EB%82%B4%EB%B6%80-%EB%B3%80%EC%88%98)
-- [AreaTrigger](https://github.com/TriggerReactor/TriggerReactor/wiki/Area-Trigger_kr#%EB%82%B4%EB%B6%80-%EB%B3%80%EC%88%98-%EB%AA%A9%EB%A1%9D)
-
-
+## player 변수
 **player 변수**는 트리거에서 특별한 변수입니다.
 이 변수는 트리거 내에서 뿐만 아니라 Placeholder와 Executor 내에서도 사용됩니다.
 즉, 자신의 트리거 구문에서 player 변수를 수정하면, 대상 정보를 필요로 하는Placeholder(이를테면 $playername) 와 Executor(이를테면 #MESSAGE) 에서는 이 변수의 변경을 수용하여 대상자가 변경됩니다.
