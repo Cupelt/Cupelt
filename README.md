@@ -11,8 +11,8 @@
     </br>
     </br>
     <h2>- Discription -</h2>
-    나는 뭘 해야하지?</br>
-    <code>What should i do?</code></br>
+    1인 개발 잡다한거 다 배움.</br>
+    <code>One-person development. Learning all kinds of things.</code></br>
     </br>
     </br>
     </br>
