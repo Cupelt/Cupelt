@@ -57,6 +57,8 @@
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
     </br>
     <h2>Using IDE</h2>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+    </br>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     </br>
@@ -67,17 +69,24 @@
     <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
     <h2>Using things</h2>
     <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white">
+    </br>
     <img src="https://img.shields.io/badge/google_chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
-    </br></br>
-    <h2>Design IDE</h2>
-    <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-    <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-    <img src="https://img.shields.io/badge/aftereffect-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-    </br></br>
+    <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    </br>
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <h3>Design IDE</h3>
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+    <img src="https://img.shields.io/badge/aftereffect-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+    </br>
+    <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+    </br>
     <h2>Other</h2>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cupelt">
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800">
