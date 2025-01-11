@@ -88,7 +88,9 @@
     <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
     </br>
     <h2>Other</h2>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cupelt">
+<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cupelt"> -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswnd8800">
     <h1>Career</h1>
