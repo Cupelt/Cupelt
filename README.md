@@ -88,7 +88,9 @@
     <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
     </br>
     <h2>Other</h2>
-<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cupelt"> -->
+  </div>
+</body>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2034%20mins-blue)
 
@@ -127,6 +129,9 @@ Windows                  42 hrs 11 mins      ███████████�
 
  Last Updated on 11/01/2025 10:42:21 UTC
 <!--END_SECTION:waka-->
+---
+<body>
+  <div align="left">
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=guswnd8800">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswnd8800">
     <h1>Career</h1>
