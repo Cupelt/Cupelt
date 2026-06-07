@@ -94,35 +94,10 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C168%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-444.03%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     237 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-🌆 낮　                     241 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-🌃 저녁                     259 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌙 밤　                     74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-444.11%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🔥 에디터들: 
-이번 주에 활동은 없어요.
-
-💻 운영 체제들: 
-이번 주에 활동은 없어요.
-```
-
-
- Last Updated on 06/06/2026 19:51:56 UTC
+ Last Updated on 07/06/2026 19:53:27 UTC
 <!--END_SECTION:waka-->
 ---
 <body>
